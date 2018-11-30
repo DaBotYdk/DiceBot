@@ -1,1 +1,1 @@
-worker: python profanitybot.py
+worker: python DiceBot.py
