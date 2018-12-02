@@ -1,1 +1,1 @@
-worker: python DiceBot.py
+worker: python dicebot.py
